@@ -1,6 +1,6 @@
 ## Company Matching – Technical Documentation
 
-## Objective
+Objective:
     Match companies between two datasets based on company name and location data and produce a merged output.
 
 1. Input Data
