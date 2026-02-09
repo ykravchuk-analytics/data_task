@@ -63,3 +63,11 @@ Objective:
     - python main.py
 12.  Notes
     The solution uses deterministic, explainable matching logic and is designed to be extensible for additional matching rules if required.
+13. Result:
+    Total companies: 1043
+    Total overlaped: 32
+    Percentage overlaped: 3.07%
+    Total unmatched: 1011
+    Unmatched percentage: 96.93%
+
+    Total companies that contains multiple entries in DS1 and DS2: 70
